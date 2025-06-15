@@ -1,15 +1,21 @@
 {
-  "name": "yourname/laravel-dynamic-filter",
-  "description": "A dynamic, nested filtering engine for Laravel using JSON-style filters.",
+  "name": "AbdulRehman56/Laravel-Nested-Filter",
+  "description": "A Laravel utility to apply dynamic nested filters and relations from a request.",
   "type": "library",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Abdul Rehman",
+      "email": "iashabbir12@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "illuminate/database": "^8.0|^9.0|^10.0"
+  },
   "autoload": {
     "psr-4": {
       "YourNamespace\\DynamicFilter\\": "src/"
     }
-  },
-  "require": {
-    "php": "^8.0",
-    "illuminate/support": "^9.0|^10.0|^11.0"
   }
 }
