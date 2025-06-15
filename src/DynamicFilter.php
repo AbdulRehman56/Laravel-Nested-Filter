@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\DynamicFilter;
+namespace AbdulRehman56\DynamicFilter;
 
 class DynamicFilter
 {
