@@ -1,0 +1,15 @@
+{
+  "name": "yourname/laravel-dynamic-filter",
+  "description": "A dynamic, nested filtering engine for Laravel using JSON-style filters.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "YourNamespace\\DynamicFilter\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "illuminate/support": "^9.0|^10.0|^11.0"
+  }
+}
