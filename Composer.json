@@ -1,4 +1,4 @@
-{
+{ 
     "name": "abdulrehman56/laravel-nested-filter",
     "description": "A Laravel utility to apply dynamic nested filters and relations from a request.",
     "type": "library",
